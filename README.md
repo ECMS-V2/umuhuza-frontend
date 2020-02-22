@@ -1,2 +1,2 @@
-# umuhuza-frontend
-umuhuza-frontend 
+# umuhuzaFront
+umuhuza frontend application 
